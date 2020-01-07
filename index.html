@@ -1,0 +1,88 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Books Project Form</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+
+  <script src="book-data.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <style>
+    img.cover {width: 200px}
+    p.is-selected {float: right}
+  </style>
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+
+  <!-- Add your site or application content here -->
+  <div id="content">
+
+    <h2>v2</h2>
+
+    <form id="query">
+      <label for="name">Teacher name</label> <input type="text" class="name"></input></label>
+      <label for="school">School</label><select>
+        <option value="Peralta">Peralta</option>
+        <option value="Sankofa">Sankofa</option>
+      </select>
+    </form>
+    <p>Total left to spend: <span id="left-to-spend">$50</span></span></p>
+
+    <div id="app">
+      <li v-for="book in books">
+        <ol>
+          <p class="is-selected">Selected? <input type="checkbox"></p>
+          <h3>{{ book['Title'] }}</h3>
+          <img class="cover" :src="book['Image URL']" alt="" />
+          <p>Grade: <span class="grade-min">{{ book['Grade Min '] }}</span>-<span class="grade-max">{{ book['Grade Max '] }}</span></p>
+          <p>Price: <span class="price">{{ book['Lowest Price'] }}</span></p>
+          <p>{{ book["Geographic Origins "] }} ({{ book["Identity or Issue"] }})</p>
+          <p><a :href="book['Link']" target="_new">more information link</a></p>
+          <div class="review">Description: <br>{{ book['Textual Review '] }}</div>
+        </ol>
+
+      </li>
+    </div>
+    <script>
+      var app = new Vue({
+        el: '#app',
+        data: {
+          message: 'Hello Vue!',
+          books: BOOKS
+        }
+      })
+    </script>
+
+  </div>
+
+  <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+
+</html>
