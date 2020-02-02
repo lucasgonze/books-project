@@ -16,7 +16,7 @@
 
   <meta name="theme-color" content="#fafafa">
 
-  <script src="convertcsv.json"></script>
+  <script src="book-data.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   <style>
     img.cover {width: 200px}
@@ -33,16 +33,41 @@
   <!-- Add your site or application content here -->
   <div id="content">
 
-    <h2>v2</h2>
+    <h1>Diverse Classroom Libraries Project</h1>
 
-    <form id="query">
-      <label for="name">Teacher name</label> <input type="text" class="name"></input></label>
-      <label for="school">School</label><select>
-        <option value="Peralta">Peralta</option>
-        <option value="Sankofa">Sankofa</option>
-      </select>
-    </form>
-    <p>Total left to spend: <span id="left-to-spend">$50</span></span></p>
+    <p>We have a chance to expand classroom libraries so kids of color see themselves reflected and whiteness as the norm is interrupted for all kids. Parents will fund purchases, provide a curated list of books, acquire and distribute books. </p>
+
+    <p>The books have been selected according to these criteria:</p>
+    <ol>
+      <li>Fun reading. Not preachy. Will inspire the love of books.</li>
+      <li>True to the experience of readers of color</li>
+      <li>Broadens coverage of racial and ethnic groups</li>
+      <li>Fresh. Recently published or not extremely well known.</li>
+      <li>Good writing. Teach writing by example.</li>
+      <li>At the right reading level</li>
+    </ol>
+
+    <p>To participate, teachers should review the book list, then fill in the form below. The budget for each teacher is $50. Teachers can submit the form in print by putting it in the PPTG mailbox at Peralta, or digitally by sending an email to lucas@gonze.com. Teachers can request books not in the list, but please contact us first to verify that selections are in scope.</p>
+
+    <hr>
+
+    <p>Teacher name:</p>
+    <p>School:</p>
+    <p>Email:</p>
+
+    <table>
+      <tr>
+        <th>Book title</th>
+        <th>Copies</th>
+      </tr>
+      <tr>
+        <td>Book title</td>
+        <td>Copies</td>
+      </tr>
+    </table>
+
+    <hr>
+    <h2>Books</h2>
 
     <div id="app">
       <li v-for="book in books">
