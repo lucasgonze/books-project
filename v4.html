@@ -1,0 +1,205 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Books Project Form</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+
+  <link href="https://unpkg.com/readable-css/css/readable.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4" media="print">
+  <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4/dist/themes/oldstyle.min.css" media="print">
+
+  <!-- created with www.convertcsv.com/csv-to-json.htm -->
+  <script src="convertcsv.json"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <style>
+    img.cover {width: 200px}
+    p.is-selected {float: right}
+    p.box-me, input.box-me, p.book-selection {
+      border-bottom: 1px solid black;
+      outline: 0;
+      width: 100%;
+      height: 2em;
+      padding: 3px
+    }
+    li.book {
+      list-style-type: none
+    }
+    label { padding-top: 1em}
+
+    li.book { clear: left }
+    img.cover {
+      float: left;
+      margin-right: 1em;
+      margin-top: 0;
+    }
+    div.has-label { margin-top: 1em }
+    @media print {
+      li.book {
+        page-break-inside: avoid;
+        page-break-after: always
+      }
+      div.page {
+        page-break-after: always
+      }
+
+      /* otherwise the blurbs eat up a huge amount of space */
+      .book blockquote {
+        font-size:10px
+      }
+      /* do not show URLs inline */
+      a[href]:after {
+        nop-font-size: 10px;
+        content: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <div id="content" class="readable-content">
+    <h1>Diverse Classroom Libraries</h1>
+
+    <div class="page intro">
+      <div>We have a chance to expand classroom libraries so kids of color see themselves reflected and whiteness as the norm is interrupted for all kids. Parents will curate, fund, acquire and distribute books. The budget per teacher is $50.</div>
+
+      <p>The books have been selected according to these criteria:</p>
+      <ul>
+        <li>Fun reading. Not preachy. Will inspire the love of books.</li>
+        <li>True to the experience of readers of color. Writers about a marginalized group will usually belong to that group.</li>
+        <li>Broadens coverage of racial and ethnic groups</li>
+        <li>Fresh. Recently published or not extremely well known.</li>
+        <li>Good writing. Teach writing by example.</li>
+        <li>At the right reading level</li>
+      </ul>
+
+      <p>To participate, teachers should review the book list, then fill in the form below. Teachers can submit the form in print by putting it in the PPTG mailbox at Peralta, or digitally by sending an email to lucas@gonze.com. Teachers are welcome to request books that are not on the list, as long as they improve library diversity. </p>
+
+      <p>Teachers can spend up to $50. </p>
+
+    </div><!--.page-->
+
+    <div class="page order">
+      <h2>Order Form</h2>
+
+      <div>
+        <label>Teacher name:</label>
+        <p class="box-me book-selection"></p>
+      </div>
+
+      <div class="has-label">
+        <label>Teacher email:</label>
+        <p class="box-me book-selection"></p>
+      </div>
+
+      <div class="has-label">
+        <label>Book Selections:</label>
+
+        <table width="100%">
+          <tr>
+            <th width="60%">Title</th>
+            <th width="20%">Copies</th>
+            <th width="20%">Price</th>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+        </table>
+      </div>
+
+    </div><!--.page-->
+
+    <div class="catalog">
+      <h2>Catalog</h2>
+
+      <div id="app">
+        <ul v-for="book in books">
+          <li v-if="book['Enabled'] !== false" class="book">
+            <h3>{{ book['Title'] }}</h3>
+            <img class="cover" :src="book['Image URL']" alt="" />
+            Grade: {{ book['Grade Min'] }}-{{ book['Grade Max'] }}<br>
+            Price: {{ book['Lowest Price'] }}<br>
+            Identity or theme: {{ book["Racial or ethnic identity or theme"] }}<br>
+            <a :href="book['Link']" target="_new">More info on the web</a><br>
+            <blockquote class="review" v-html="book['Textual Review Without Newlines']"></blockquote>
+          </li>
+
+        </ul>
+      </div>
+      <script>
+        var app = new Vue({
+          el: '#app',
+          data: {
+            message: 'Hello Vue!',
+            books: BOOKS
+          }
+        })
+      </script>
+
+    </div><!--.page-->
+
+
+  </div>
+
+  <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
