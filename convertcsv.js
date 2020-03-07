@@ -12,7 +12,7 @@ BOOKS =
    "Textual Review Without Newlines": "We All Count: A Book of Cree Numbers is a sweet story on counting in the Cree language. On each page, the number is in English and then also in Cree, with the pronunciation right on that same page which made it great. This is a great book for a child learning how to count in another language and also is great in the fact that it teaches diversity for Native Americans. The pictures are appealing and any child can understand and relate to them. Personally, I believe that the title of the story, ‘We All Count’, means that Indigenous people count too, not just Americans.",
    "Lowest Price": "$10.00",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401137440l/22334030.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -26,7 +26,7 @@ BOOKS =
    "Textual Review Without Newlines": "Shanyaak'utlaax: Salmon Boy?\" is a children's story that teaches about respect for nature, animals and culture. After a Tlingit mother gives her son a dried piece of salmon with mold on the end, he flings it away in disgust, committing a taboo. This offends the Salmon People, who sweep him into the water and into their world, where the name him Shanyaak'utlaax or Salmon Boy. It comes from an ancient Tlingit story that was edited by Johnny Marks, Hans Chester, David Katzeek, and Nora and Richard Dauenhauer. Illustrated by Tlingit artist Michaela Goade.This book is part of the award-winning Baby Raven Reads, a Sealaska Heritage program for Alaska Native families with children up to age 5 that promotes language development and school readiness. Winner of the 2018 American Indian Youth Literature Best Picture Book Award",
    "Lowest Price": "$105!",
    "Image URL": "https://ailanet.org/app/uploads/2018/07/salmon_boy.jpg",
-   "Enabled": ""
+   "Enabled": false
  },
  {
    "Image": "",
@@ -40,7 +40,7 @@ BOOKS =
    "Textual Review Without Newlines": "A powerful, vibrantly illustrated story about the first day of school--and two sisters on one's first day of hijab--by Olympic medalist and social justice activist Ibtihaj Muhammad.<br><br>With her new backpack and light-up shoes, Faizah knows the first day of school is going to be special. It's the start of a brand new year and, best of all, it's her older sister Asiya's first day of hijab--a hijab of beautiful blue fabric, like the ocean waving to the sky. But not everyone sees hijab as beautiful, and in the face of hurtful, confusing words, Faizah will find new ways to be strong.<br><br>Paired with Hatem Aly's beautiful, whimsical art, Olympic medalist Ibtihaj Muhammad and Morris Award finalist S.K. Ali bring readers an uplifting, universal story of new experiences, the unbreakable bond between siblings, and of being proud of who you are.",
    "Lowest Price": "$15.64",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553432847l/44582375._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -54,7 +54,7 @@ BOOKS =
    "Textual Review Without Newlines": "Señoras y señores, put your hands together for the fantastic, spectacular, one of a kind . . . Niño!<br><br>Fwap! Slish! Bloop! Krunch! He takes down his competition in a single move!<br><br>No opponent is too big a challenge for the cunning skills of Niño―popsicle eater, toy lover, somersault expert, and world champion lucha libre competitor!<br><br>Niño Wrestles the World is in English with Spanish vocabulary, and is a fun, colorful story about a boy wrestling with imaginary monsters (including an Olmec Head and La Llorona) and adversaries like his younger sisters. This is a joyful picture book about imagination, play, and siblings.",
    "Lowest Price": "$6.56",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/125/9781250062703.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -68,7 +68,7 @@ BOOKS =
    "Textual Review Without Newlines": "From Academy Award–winning actress Lupita Nyong’o comes a powerful, moving picture book about colorism, self-esteem, and learning that true beauty comes from within.<br><br>Sulwe has skin the color of midnight. She is darker than everyone in her family. She is darker than anyone in her school. Sulwe just wants to be beautiful and bright, like her mother and sister. Then a magical journey in the night sky opens her eyes and changes everything.<br><br>In this stunning debut picture book, actress Lupita Nyong’o creates a whimsical and heartwarming story to inspire children to see their own unique beauty.",
    "Lowest Price": "$13.13",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/153/9781534425361.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -82,7 +82,7 @@ BOOKS =
    "Textual Review Without Newlines": "Yasmin's school is hosting an art competition and Yasmin is worried. Her art never seems to go the way that she imagined and she always ends up making a mess! But Yasmin wants to submit something for the competition, will she be able to paint something fantastic?<br><br>Yasmin the Painter is part of a series of books, where Yasmin tries different activities. These are own-voices stories, written by a Pakistani author, and contain some Urdu vocabulary. This book would be fantastic to teach children about other cultures and languages as basic Urdu vocabulary is used throughout the story with a glossary in the back explaining some Urdu words. In the back of the book, there is also a page featuring some facts about Pakistan that could be used as a basis for parents or teachers to introduce education about other cultures and countries.<br><br>The story is simple to understand and perhaps relatable for some young readers. The back of the book features a comprehension page with questions to encourage children to digest the story and think about how they would react in the same situation. Because of this, it would be ideal for parents or teachers to read the book with the child to prompt further questions.<br><br>Ideal for: young readers aged 5-7 years old.<br><br>As a turquoise banded book, this story contains short and medium length sentences and basic vocabulary with a couple of challenging words. The book features illustrations to accompany the text, although the text is the main focus of the book. This book is best read with support from a parent or teacher who can prompt the reader to sound out unfamiliar words and test their comprehension.",
    "Lowest Price": "$4.99",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527114784l/38532586.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -96,7 +96,7 @@ BOOKS =
    "Textual Review Without Newlines": "I love reading new books with my kiddos. I recently received a copy of 'Keesha's South African Adventure' written by Cheril N Clarke and Monica Bey-Clarke with illustrations by Julia Selyutina in exchange for my honest opinion. After learning about South Africa in school, the inquisitive and lighthearted Keesha dreams of one day going to see the country for herself. She gets the surprise of a lifetime when her two moms decide to take her there for her birthday! She spends seven wonderful days exploring the food, culture, and nature of the country.<br><br>I love that 'Keesha's South African Adventure' showcases a proud, modern family on an incredible vacation. I try to read books about all sorts of people, cultures, and places with my children, so I love that Keesha is a young black woman with two mothers who explores the country of South Africa. The book has sparked so many wonderful conversations with my daughter, from different types of families to other countries in the world. The illustrations are colorful and realistic and really help bring the story to life. My toddler son loves flipping through the pages, and he really loves pointing out all the African animals like the giraffes. I was also super excited to see other titles in the 'Keesha' series. I definitely recommend giving 'Keesha's South African Adventure' a read! ",
    "Lowest Price": "13.95",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483552306l/31753433._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -110,7 +110,7 @@ BOOKS =
    "Textual Review Without Newlines": "Juana loves many things: drawing, living in Bogotá, Colombia, and especially her dog, Lucas, the best amigo ever. She does not love wearing her itchy school uniform, solving math problems, or learning the English. Why is it so important to learn a language that makes so little sense? Hilarious, energetic, and utterly relatable, Juana will win over los corazones (the hearts) of readers everywhere.",
    "Lowest Price": "$5.83",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/153/9781536206395.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -124,7 +124,7 @@ BOOKS =
    "Textual Review Without Newlines": "“It’s not just a pleasure to read, it also does something important, and that is to show up and show out for black kids, black culture and black language. It’s about that time honored tradition for black folks of sitting in the chair at the barbershop, and the power of being seen as a black boy beyond stereotype out here in America. . . . Hook yourself up with this sweet and mighty book, both for you and your kids.” —Rebecca Carroll, Los Angeles Times Top Books of 2017",
    "Lowest Price": "$13.83",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/157/9781572842243.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -138,7 +138,7 @@ BOOKS =
    "Textual Review Without Newlines": "About a Pakistani family living in the West and the children, especially eldest sister, Rubina, navigating cultural differences with their traditional mother. I can't count how many times my four year old daughter asked us to read her this book. The story is a pitch perfect account of the dynamics in an immigrant household. Rubina is so excited about getting an invitation to a birthday party that she runs all the way home from school. When she asks her mom if she can go, her little sister, Sana, screams that she wants to go to.",
    "Lowest Price": "$13.42",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/067/9780670062874.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -152,7 +152,7 @@ BOOKS =
    "Textual Review Without Newlines": "A visit to Washington, DC’s National Portrait Gallery forever alters Parker Curry’s young life when she views First Lady Michelle Obama’s portrait.<br><br>When Parker Curry came face-to-face with Amy Sherald’s transcendent portrait of First Lady Michelle Obama at the National Portrait Gallery, she didn’t just see the First Lady of the United States. She saw a queen—one with dynamic self-assurance, regality, beauty, and truth who captured this young girl’s imagination. When a nearby museum-goer snapped a photo of a mesmerized Parker, it became an internet sensation. Inspired by this visit, Parker, and her mother, Jessica Curry, tell the story of a young girl and her family, whose trip to a museum becomes an extraordinary moment, in a moving picture book.<br><br>Parker Looks Up follows Parker, along with her baby sister and her mother, and her best friend Gia and Gia’s mother, as they walk the halls of a museum, seeing paintings of everyone and everything from George Washington Carver to Frida Kahlo, exotic flowers to graceful ballerinas. Then, Parker walks by Sherald’s portrait of Michelle Obama…and almost passes it. But she stops...and looks up!",
    "Lowest Price": "$13.79",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569152840l/43822431._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -166,7 +166,7 @@ BOOKS =
    "Textual Review Without Newlines": "(Review 1) The first book in the beloved and hilarious Alvin Ho chapter book series, which has been compared to Diary of a Wimpy Kid and is perfect for both beginning and reluctant readers. Alvin, an Asian American second grader, is afraid of everything—elevators, tunnels, girls, and, most of all, school. He’s so afraid of school that, while he’ s there, he never, ever, says a word. But at home he’s a very loud superhero named Firecracker Man, a brother to Calvin and Anibelly, and a gentleman-in-training, so he can be just like his dad.<br><br>(Review 2) I am now reading this book aloud to a class of second graders who find it, \"hilarious.\" It is a chapter book so an advanced read but it has captured their attention and imagination.",
    "Lowest Price": "$6.93",
    "Image URL": "http://3.bp.blogspot.com/-cnxCzNywxDc/UAmT_2p-wbI/AAAAAAAAFM8/NWFmkAN5NU8/s1600/AlvinHo.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -180,7 +180,7 @@ BOOKS =
    "Textual Review Without Newlines": "Katie Fry may be little, but she's got a big brain, and she uses it to solve mysteries. So when she finds a very cute, VERY lost kitten named Sherlock, she decides to take his case. Can Katie track down the clues to find Sherlock's home?",
    "Lowest Price": "$3.99",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434052136l/25710574._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -194,7 +194,7 @@ BOOKS =
    "Textual Review Without Newlines": "Welcome, readers, to the imaginative brain of Omar! You might not know me yet, but once you open the pages of this book you'll laugh so hard that snot will come out of your nose (plus you might meet a dragon and a zombie - what more could <br>you want?).<br><br>My parents decided it would be a good idea to move house AND move me to a new school at the same time. As if I didn't have a hard enough time staying out of trouble at home, now I've also got to try and make new friends.<br><br>What's worse, the class bully seems to think I'm the perfect target and has made it his mission to send me back<br> to Pakistan. But I've never even been to Pakistan! And my cousin told me the pizza there is YUCK.<br><br>The only good thing is that Eid's just around the corner which means a feast of all my favourite food <br>(YAY) and presents (DOUBLE YAY). I'm really hoping I can stay in Mum and<br> Dad's good books long enough to get loads...<br><br>The combination of Zanib Mian's hilarious text and Nasaya Mafaridik's fantastic <br>cartoon-style illustrations make the PLANET OMAR series perfect for fans<br> of Tom Gates and Wimpy Kid.<br>",
    "Lowest Price": "$13.99",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550758702l/43511163._SY475_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -208,7 +208,7 @@ BOOKS =
    "Textual Review Without Newlines": "In this allegorical picture book, a young rabbit named Pancho eagerly awaits his papa’s return. Papa Rabbit traveled north two years ago to find work in the great carrot and lettuce fields to earn money for his family. When Papa does not return, Pancho sets out to find him. He packs Papa’s favorite meal—mole, rice and beans, a heap of warm tortillas, and a jug of aguamiel—and heads north. He meets a coyote, who offers to help Pancho in exchange for some of Papa’s food. They travel together until the food is gone and the coyote decides he is still hungry . . . for Pancho!",
    "Lowest Price": "$13.10",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392244426l/15842628.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -222,7 +222,7 @@ BOOKS =
    "Textual Review Without Newlines": "Jasmine, the 8-year-old Japanese-American heroine of this charming chapter book, wants to help make mochi, a sticky rice dessert. When she's told that only men can pound the rice, she decides to convince everyone that she can do it. In this first of the series, readers get a plucky heroine, an easy-to-follow plot, a warm cast of extended family members and, at the end, a recipe for mochi.",
    "Lowest Price": "$2.99",
    "Image URL": "http://www.cbcbooks.org/wp-content/uploads/2017/06/jasmine-toguchi-mochi-queen-e1498585748892.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -236,7 +236,7 @@ BOOKS =
    "Textual Review Without Newlines": "A celebration of the love between a father and daughter, and of a vibrant immigrant neighborhood, by an award-winning author and illustrator duo.<br><br>When Daisy Ramona zooms around her neighborhood with her papi on his motorcycle, she sees the people and places she's always known. She also sees a community that is rapidly changing around her.<br><br>But as the sun sets purple-blue-gold behind Daisy Ramona and her papi, she knows that the love she feels will always be there.",
    "Lowest Price": "$11.69",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544535511l/41542761._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -250,7 +250,7 @@ BOOKS =
    "Textual Review Without Newlines": "Lailah is in a new school in a new country, thousands of miles from her old home, and missing her old friends. When Ramadan begins, she is excited that she is finally old enough to participate in the fasting but worried that her classmates won’t understand why she doesn’t join them in the lunchroom.<br><br>Lailah solves her problem with help from the school librarian and her teacher and in doing so learns that she can make new friends who respect her beliefs. This gentle, moving story from first-time author Reem Faruqi comes to life in Lea Lyon’s vibrant illustrations. Lyon uses decorative arabesque borders on intermittent spreads to contrast the ordered patterns of Islamic observances with the unbounded rhythms of American school days.",
    "Lowest Price": "$12.71",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435176284l/23876153._SX318_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -264,7 +264,7 @@ BOOKS =
    "Textual Review Without Newlines": "The Great Cake Mystery introduces young readers to the lovely setting of Botswana and a precocious young girl named Precious who likes to figure things out. Although she thinks it may be many years before she’ll have a mystery to solve, it turns out that someone in her school is eating people’s snacks and she may just be able to figure out who has done it. With her father’s encouragement and her own careful logic, a detective is born in Botswana.",
    "Lowest Price": "$5.10",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333584953l/13343102.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -278,7 +278,7 @@ BOOKS =
    "Textual Review Without Newlines": "THIRTEEN-YEAR-OLD MIN comes from a long line of fox spirits. But you'd never know it by looking at her. To keep the family safe, Min’s mother insists that none of them use any fox-magic, such as Charm or shape-shifting. They must appear human at all times.<br><br>Min feels hemmed in by the household rules and resents the endless chores, the cousins who crowd her, and the aunties who judge her. She would like nothing more than to escape Jinju, her neglected, dust-ridden, and impoverished planet. She’s counting the days until she can follow her older brother, Jun, into the Space Forces and see more of the Thousand Worlds.",
    "Lowest Price": "$5.83",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517413544l/34966859.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -292,7 +292,7 @@ BOOKS =
    "Textual Review Without Newlines": "In this work of historical fiction by Lois Sepahban, 10-year-old Manami is forced to leave her home after the attack on Pearl Harbor—her Japanese American family is relocated from Bainbridge Island, near Seattle, to an internment camp in the California desert. When her dog is taken from her in the process, Manami stops talking. A good introduction to the tough subject of Japanese internment—and the personal and social cost of intolerance.",
    "Lowest Price": "$5.83",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433641608l/25667444.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -306,7 +306,7 @@ BOOKS =
    "Textual Review Without Newlines": "True-to-life story of unjust power dynamics in a poor Pakistani village with a palpable sense of dread regarding the fate of the inquisitive, industrious, poetry-loving titular character. . . . Amal’s experience navigating an unfamiliar social hierarchy in the landlord’s lavish estate exposes her to pervasive gender inequities and unfair labor practices. . . . Saeed’s eloquent, suspenseful, eye-opening tale offers a window into the contemporary practice of indentured servitude and makes a compelling case for the power of girls’ education to transform systemic injustice.",
    "Lowest Price": "$6.56",
    "Image URL": "https://images1.penguinrandomhouse.com/cover/9780399544699",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -320,7 +320,7 @@ BOOKS =
    "Textual Review Without Newlines": "A Pakistani-American Muslim girl struggles to stay true to her family’s vibrant culture while simultaneously blending in at school after tragedy strikes her community in this “compassionate, timely novel” (Booklist, starred review) from the award-winning author of It’s Ramadan, Curious George and Golden Domes and Silver Lanterns.",
    "Lowest Price": "$5.83",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/148/9781481492072.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -334,7 +334,7 @@ BOOKS =
    "Textual Review Without Newlines": "\"Debut author Yang weaves in autobiographical content while creating a feisty and empowered heroine. The supporting characters are rich in voice and context, with multiple villains and friends that achingly reveal life in America in the 1990s for persons of color and those living in poverty. Heavy themes, including extortion, fraud, and racism, are balanced with the naïve dreams and determination of a 10-year-old.... With bittersweet information on Chinese immigration to America added in an author's note, this book captures many important themes to explore individually or in the classroom. Many readers will recognize themselves or their neighbors in these pages.\" -- Kirkus Reviews, starred review",
    "Lowest Price": "$4.99",
    "Image URL": "https://1.bp.blogspot.com/-_qkUhaSXGTo/XSfVzbQpPbI/AAAAAAAAuhY/en1TB6cfQE8AIjraX9sbxuk-avMmc3eOgCLcBGAs/s1600/tumblr_pcbyxjHeYl1qbior8o1_500.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -348,7 +348,7 @@ BOOKS =
    "Textual Review Without Newlines": "Thirteen-year-old Tai Pham lives in the apartment above his grandmother's store, where his bedroom is crammed with sketchpads and comic books. But not even his most imaginative drawings could compare to the colorful adventure he's about to embark on.<br><br>When Tai inherits his grandmother's jade ring, he soon finds out it's more than just a piece of jewelry. Suddenly he's inducted into a group of space cops known as the Green Lanterns. He is about to learn that being a superhero takes more than just a ring.",
    "Lowest Price": "$7.49",
    "Image URL": "https://insidepulse.com/wp-content/uploads/2019/07/Green-Lantern-Legacy-Tai-Pham.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -362,7 +362,7 @@ BOOKS =
    "Textual Review Without Newlines": "Lupe Impala, El Chavo Flapjack, and Elirio Malaria love working with cars. You name it, they can fix it. But the team's favorite cars of all are lowriders—cars that hip and hop, dip and drop, go low and slow, bajito y suavecito. The stars align when a contest for the best car around offers a prize of a trunkful of cash—just what the team needs to open their own shop! ¡Ay chihuahua! What will it take to transform a junker into the best car in the universe? Striking, unparalleled art from debut illustrator Raul the Third recalls ballpoint-pen-and-Sharpie desk-drawn doodles, while the story is sketched with Spanish, inked with science facts, and colored with true friendship. With a glossary at the back to provide definitions for Spanish and science terms, this delightful book will educate and entertain in equal measure.",
    "Lowest Price": "$9.99",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/145/9781452121550.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -376,7 +376,7 @@ BOOKS =
    "Textual Review Without Newlines": "In this Newbery Honor novel, New York Times bestselling author Rita Williams-Garcia tells the story of three sisters who travel to Oakland, California, in 1968 to meet the mother who abandoned them. \"This vibrant and moving award-winning novel has heart to spare.\"*<br><br>Eleven-year-old Delphine is like a mother to her two younger sisters, Vonetta and Fern. She's had to be, ever since their mother, Cecile, left them seven years ago for a radical new life in California. But when the sisters arrive from Brooklyn to spend the summer with their mother, Cecile is nothing like they imagined.<br><br>While the girls hope to go to Disneyland and meet Tinker Bell, their mother sends them to a day camp run by the Black Panthers. Unexpectedly, Delphine, Vonetta, and Fern learn much about their family, their country, and themselves during one truly crazy summer.<br><br>This moving, funny novel won the Scott O'Dell Award for Historical Fiction and the Coretta Scott King Award and was a National Book Award Finalist.",
    "Lowest Price": "$6.17",
    "Image URL": "http://img1.imagesbn.com/p/9780606235556_p0_v1_s260x420.JPG",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -390,7 +390,7 @@ BOOKS =
    "Textual Review Without Newlines": "In this unforgettable multicultural coming-of-age narrative—based on the author’s childhood in the 1960s—a young Cuban-Jewish immigrant girl is adjusting to her new life in New York City when her American dream is suddenly derailed. Ruthie’s plight will intrigue readers, and her powerful story of strength and resilience, full of color, light, and poignancy, will stay with them for a long time.<br> <br>Ruthie Mizrahi and her family recently emigrated from Castro’s Cuba to New York City. Just when she’s finally beginning to gain confidence in her mastery of English—and enjoying her reign as her neighborhood’s hopscotch queen—a horrific car accident leaves her in a body cast and confined her to her bed for a long recovery. As Ruthie’s world shrinks because of her inability to move, her powers of observation and her heart grow larger and she comes to understand how fragile life is, how vulnerable we all are as human beings, and how friends, neighbors, and the power of the arts can sweeten even the worst of times.",
    "Lowest Price": "$6.56",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/039/9780399546457.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -404,7 +404,7 @@ BOOKS =
    "Textual Review Without Newlines": "Maddy is about to spend her first summer with her grandmother, Grandmère, a prospect that makes her nervous since all of her older sisters say that she is weird and that the bayou is boring. Nevertheless, off Maddy goes to Bon Temps, LA. At first, she is unsure of what to think of Grandmère, and then she discovers that Grandmère tells wonderful stories about their family past: stories of Mami Watta and Membe. Then she introduces Maddy to Bear, a boy who lives nearby with his father who works on an oil platform. At first, the summer is perfect, and Maddy is able to learn from Grandmère and explore the bayou. But then she starts having bad dreams, and Bear disappears for days on end. What has happened to Maddy's friend? And do her bad dreams mean something is about to happen? If so, will Maddy be able to save Bon Temps?<br><br>This story is a wonderful mix of folk stories and childhood fantasy, with a healthy dose of environmental realism. This book is recommended for imaginative children who don't mind a bit of realism in their fantasy. Due to some sensitive topics, it is recommended that children be around 4th or 5th grade before reading this story.",
    "Lowest Price": "$5.83",
    "Image URL": "https://www.thereadingwarehouse.com/thumb.php?src=products/031/9780316224840.jpg&wmax=400&hmax=400",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -418,7 +418,7 @@ BOOKS =
    "Textual Review Without Newlines": "When your mom is SuperMexican life is tough. And when SuperMexican announces that you are moving with her for two years from Gainesville, Florida to Chicago, Illinois, away from your beloved father and friends, you’re allowed to get peeved. The trouble is that Malu doesn’t think she has ANYTHING in common with her mom. Malu doesn’t like cilantro, loves punk music, makes Zines, and has absolutely no interest in connecting with her Mexican roots, so to speak. Still, Chicago isn’t quite what she expected. And when the chance comes up to put together her own ragtag punk band, she finds that sometimes you follow the rules, sometimes you break the rules, and sometimes it’s a lot more fun to just go on out and make your own rules.<br><br>First and foremost, Ms. Perez makes sure right from the start that kids reading this book will find it fun. That's why right after the very first chapter we get our first glimpse at Malu's Zines.",
    "Lowest Price": "$6.56",
    "Image URL": "http://100scopenotes.com/files/2017/07/The-First-Rule-of-Punk-356x550.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -432,7 +432,7 @@ BOOKS =
    "Textual Review Without Newlines": "Lou Bulosan-Nelson is going to build her dream. She shares a room with her mom in her grandmother's house in San Francisco, and longs for a place of her own where she can escape her lovable but large extended Filipino family. Lou has a talent for woodshop class and creating projects, and plans to build a tiny house, 100 square feet, all her own, on land that she inherited from her dad, who died before she was born. Then Lou discovers it's not so easy to build one, but she won't give up on her dream—and her friends and family won’t either. This heartwarming coming-of-age story explores culture and family, forgiveness and friendship, and what makes a house a true home.",
    "Lowest Price": "$5.10",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510801132l/29752051._SY475_.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -446,7 +446,7 @@ BOOKS =
    "Textual Review Without Newlines": "“THE PEOPLE COULD FLY,” the title story in Virginia Hamilton’s prize-winning American Black folktale collection, is a fantasy tale of the slaves who possessed the ancient magic words that enabled them to literally fly away to freedom. And it is a moving tale of those who did not have the opportunity to “fly” away, who remained slaves with only their imaginations to set them free as they told and retold this tale.<br><br>Leo and Diane Dillon have created powerful new illustrations in full color for every page of this picture book presentation of Virginia Hamilton’s most beloved tale.",
    "Lowest Price": "$5.83",
    "Image URL": "https://img1.od-cdn.com/ImageType-100/0111-1/%7B1BC1A5D9-DF33-4C55-8A76-0847885B95D0%7DImg100.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -456,11 +456,11 @@ BOOKS =
    "Author": "Tim Tingle",
    "Grade Min": "4",
    "Grade Max": 7,
-   "Textual Review With Newlines": "Written by Tim Tingle, himself a member of the Choctaw Nation of Oklahoma and whose grandfather marched the Trail of Tears, How I Became a Ghost: A Choctaw Trail of Tears Story\n (2013) is a middle-grade historical fiction account of a young boy in \nthe Choctaw nation and his death on the tragic Trail of Tears.  The \nfirst in a trilogy, the book is well regarded for its Native American \nperspective. It won the 2014 American Indian Youth Literature Award and \nwas on Kirkus Review’s list of Best Books of 2013—Making History Come Alive.\n\nTingle manages to keep a very depressing story lighter than it ought to be. Isaac is a compelling narrator. There are moments of humor and inspiration mingled within the sadness and devastation. Tingle also refuses to fit his characters into clichés, with small sympathetic moments for the soldiers presenting a balanced, holistic portrayal of an ugly moment in American history.\n\nWritten for a younger audience, How I Became a Ghost: A Choctaw Trail of Tears Story tells a harrowing, often violent story without being gratuitous. At fewer than 200 pages, it is also an incredibly fast, minimalistic read that is accessible for young readers in middle school.",
-   "Textual Review Without Newlines": "Written by Tim Tingle, himself a member of the Choctaw Nation of Oklahoma and whose grandfather marched the Trail of Tears, How I Became a Ghost: A Choctaw Trail of Tears Story<br> (2013) is a middle-grade historical fiction account of a young boy in <br>the Choctaw nation and his death on the tragic Trail of Tears.  The <br>first in a trilogy, the book is well regarded for its Native American <br>perspective. It won the 2014 American Indian Youth Literature Award and <br>was on Kirkus Review’s list of Best Books of 2013—Making History Come Alive.<br><br>Tingle manages to keep a very depressing story lighter than it ought to be. Isaac is a compelling narrator. There are moments of humor and inspiration mingled within the sadness and devastation. Tingle also refuses to fit his characters into clichés, with small sympathetic moments for the soldiers presenting a balanced, holistic portrayal of an ugly moment in American history.<br><br>Written for a younger audience, How I Became a Ghost: A Choctaw Trail of Tears Story tells a harrowing, often violent story without being gratuitous. At fewer than 200 pages, it is also an incredibly fast, minimalistic read that is accessible for young readers in middle school.",
+   "Textual Review With Newlines": "Written by Tim Tingle, himself a member of the Choctaw Nation of Oklahoma and whose grandfather marched the Trail of Tears, How I Became a Ghost: A Choctaw Trail of Tears Story\n (2013) is a middle-grade historical fiction account of a young boy in \nthe Choctaw nation and his death on the tragic Trail of Tears.  The \nfirst in a trilogy, the book is well regarded for its Native American \nperspective. It won the 2014 American Indian Youth Literature Award and \nwas on Kirkus Review’s list of Best Books of 2013—Making History Come Alive.\n\nTingle manages to keep a very depressing story lighter than it ought to be. Isaac is a compelling narrator. There are moments of humor and inspiration mingled within the sadness and devastation. Tingle also refuses to fit his characters into clichés, with small sympathetic moments for the soldiers presenting a balanced, holistic portrayal of an ugly moment in American history.\n\nWritten for a younger audience, How I Became a Ghost: A Choctaw Trail of Tears Story tells a harrowing, often violent story without being gratuitous. At fewer than 200 pages, it is also an incredibly fast, minimalistic read that is accessible for young readers in middle school.",
+   "Textual Review Without Newlines": "Written by Tim Tingle, himself a member of the Choctaw Nation of Oklahoma and whose grandfather marched the Trail of Tears, How I Became a Ghost: A Choctaw Trail of Tears Story<br> (2013) is a middle-grade historical fiction account of a young boy in <br>the Choctaw nation and his death on the tragic Trail of Tears.  The <br>first in a trilogy, the book is well regarded for its Native American <br>perspective. It won the 2014 American Indian Youth Literature Award and <br>was on Kirkus Review’s list of Best Books of 2013—Making History Come Alive.<br><br>Tingle manages to keep a very depressing story lighter than it ought to be. Isaac is a compelling narrator. There are moments of humor and inspiration mingled within the sadness and devastation. Tingle also refuses to fit his characters into clichés, with small sympathetic moments for the soldiers presenting a balanced, holistic portrayal of an ugly moment in American history.<br><br>Written for a younger audience, How I Became a Ghost: A Choctaw Trail of Tears Story tells a harrowing, often violent story without being gratuitous. At fewer than 200 pages, it is also an incredibly fast, minimalistic read that is accessible for young readers in middle school.",
    "Lowest Price": "$8.95",
    "Image URL": "http://3.bp.blogspot.com/-7diUmed7UOk/U8y80cVLEFI/AAAAAAAABNw/PPyJvEvpK7s/s1600/how_i_became_a_ghost.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -474,7 +474,7 @@ BOOKS =
    "Textual Review Without Newlines": "Jimmy McClean is a Lakota boy—though you wouldn’t guess it by his name: his father is part white and part Lakota, and his mother is Lakota. When he embarks on a journey with his grandfather, Nyles High Eagle, he learns more and more about his Lakota heritage—in particular, the story of Crazy Horse, one of the most important figures in Lakota and American history. Drawing references and inspiration from the oral stories of the Lakota tradition, celebrated author Joseph Marshall III juxtaposes the contemporary story of Jimmy with an insider’s perspective on the life of Tasunke Witko, better known as Crazy Horse (c. 1840–1877). The book follows the heroic deeds of the Lakota leader who took up arms against the US federal government to fight against encroachments on the territories and way of life of the Lakota people, including leading a war party to victory at the Battle of the Little Bighorn. Along with Sitting Bull, Crazy Horse was the last of the Lakota to surrender his people to the US army. Through his grandfather’s tales about the famous warrior, Jimmy learns more about his Lakota heritage and, ultimately, himself.",
    "Lowest Price": "$1.99",
    "Image URL": "https://i.ebayimg.com/images/g/EkwAAOSwX4FdMrjO/s-l400.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -488,7 +488,7 @@ BOOKS =
    "Textual Review Without Newlines": "Esperanza believed her life would be wonderful forever. She would always live on her family's ranch in Mexico. She would always have fancy dresses and a beautiful home filled with servants. Papa and Abuelita would always be with her.<br><br>But a sudden tragedy shatters her world and Esperanza and Mama flee to California, where they settle in a camp for Mexican farm workers. Esperanza isn't ready for the hard labor, financial struggles brought on by the Great Depression, and lack of acceptance she now faces. When Mama gets sick, and a strike for better working conditions threatens to uproot their new life, Esperanza must find a way to rise above her difficult circumstances — because Mama's life and her own depend on it.",
    "Lowest Price": "$5.83",
    "Image URL": "https://www.scholastic.com/content5/media/products/18/9780439120418_mres.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -502,7 +502,7 @@ BOOKS =
    "Textual Review Without Newlines": "Zomorod (Cindy) Yousefzadeh is the new kid on the block . . . for the fourth time. California’s Newport Beach is her family’s latest perch, and she’s determined to shuck her brainy loner persona and start afresh with a new Brady Bunch name—Cindy. It’s the late 1970s, and fitting in becomes more difficult as Iran makes U.S. headlines with protests, revolution, and finally the taking of American hostages. Even mood rings and puka shell necklaces can't distract Cindy from the anti-Iran sentiments that creep way too close to home.",
    "Lowest Price": "$6.89",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842493l/25897857.jpg",
-   "Enabled": ""
+   "Enabled": null
  },
  {
    "Image": "",
@@ -516,6 +516,6 @@ BOOKS =
    "Textual Review Without Newlines": "Zoe Washington isn’t sure what to write. What does a girl say to the father she’s never met, hadn’t heard from until his letter arrived on her twelfth birthday, and who’s been in prison for a terrible crime?<br><br>A crime he says he never committed.<br><br>Could Marcus really be innocent? Zoe is determined to uncover the truth. Even if it means hiding his letters and her investigation from the rest of her family. Everyone else thinks Zoe’s worrying about doing a good job at her bakery internship and proving to her parents that she’s worthy of auditioning for Food Network’s Kids Bake Challenge.<br><br>But with bakery confections on one part of her mind, and Marcus’s conviction weighing heavily on the other, this is one recipe Zoe doesn’t know how to balance. The only thing she knows to be true: Everyone lies.",
    "Lowest Price": "$14.39",
    "Image URL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560957404l/45169415.jpg",
-   "Enabled": ""
+   "Enabled": null
  }
 ]

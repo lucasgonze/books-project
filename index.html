@@ -16,11 +16,55 @@
 
   <meta name="theme-color" content="#fafafa">
 
-  <script src="convertcsv.json"></script>
+  <link href="https://unpkg.com/readable-css/css/readable.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4" media="print">
+  <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4/dist/themes/oldstyle.min.css" media="print">
+
+  <!-- created with www.convertcsv.com/csv-to-json.htm -->
+  <script src="convertcsv.js"></script>
+
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   <style>
     img.cover {width: 200px}
     p.is-selected {float: right}
+    p.box-me, input.box-me, p.book-selection {
+      border-bottom: 1px solid black;
+      outline: 0;
+      width: 100%;
+      height: 2em;
+      padding: 3px
+    }
+    li.book {
+      list-style-type: none
+    }
+    label { padding-top: 1em}
+
+    li.book { clear: left }
+    img.cover {
+      float: left;
+      margin-right: 1em;
+      margin-top: 0;
+    }
+    div.has-label { margin-top: 1em }
+    @media print {
+      li.book {
+        page-break-inside: avoid;
+        page-break-after: always
+      }
+      div.page {
+        page-break-after: always
+      }
+
+      /* otherwise the blurbs eat up a huge amount of space */
+      .book blockquote {
+        font-size:10px
+      }
+      /* do not show URLs inline */
+      a[href]:after {
+        nop-font-size: 10px;
+        content: none;
+      }
+    }
   </style>
 </head>
 
@@ -29,34 +73,126 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-
   <!-- Add your site or application content here -->
-  <div id="content">
+  <div id="content" class="readable-content">
+    <h1>Diverse Classroom Libraries</h1>
 
-    <div id="app">
+    <div class="page intro">
+      <div>We have a chance to expand classroom libraries so kids of color see themselves reflected and whiteness as the norm is interrupted for all kids. Parents will curate, fund, acquire and distribute books. The budget per teacher is $50.</div>
 
-      <li v-for="book in books">
-        <ol v-if="book['Enabled'] !== false">
-          <h3>{{ book['Title'] }}</h3>
-          <img class="cover" :src="book['Image URL']" alt="" />
-          <p>Grade: <span class="grade-min">{{ book['Grade Min'] }}</span>-<span class="grade-max">{{ book['Grade Max'] }}</span></p>
-          <p>Price: <span class="price">{{ book['Lowest Price'] }}</span></p>
-          <p>Identity or issue: {{ book["Racial or ethnic identity or theme"] }}</p>
-          <p>More information: <a :href="book['Link']" target="_new">LINK</a></p>
-          <blockquote class="review" v-html="book['Textual Review Without Newlines']"></blockquote>
-        </ol>
+      <p>The books have been selected according to these criteria:</p>
+      <ul>
+        <li>Fun reading. Not preachy. Will inspire the love of books.</li>
+        <li>True to the experience of readers of color.</li>
+        <li>Broadens coverage of racial and ethnic groups</li>
+        <li>Fresh. Recently published or not extremely well known.</li>
+        <li>Good writing. Teach writing by example.</li>
+        <li>At the right reading level</li>
+      </ul>
 
-      </li>
-    </div>
-    <script>
-      var app = new Vue({
-        el: '#app',
-        data: {
-          message: 'Hello Vue!',
-          books: BOOKS
-        }
-      })
-    </script>
+      <p>To participate, teachers should review the book list, then fill in the form below. Teachers can submit the form in print by putting it in the PPTG mailbox at Peralta, or digitally by sending an email to lucas@gonze.com. Teachers are welcome to request books that are not on the list, as long as they improve library diversity. </p>
+
+      <p>Teachers can spend up to $50. </p>
+
+    </div><!--.page-->
+
+    <div class="page order">
+      <h2>Order Form</h2>
+
+      <div>
+        <label>Teacher name:</label>
+        <p class="box-me book-selection"></p>
+      </div>
+
+      <div class="has-label">
+        <label>Teacher email:</label>
+        <p class="box-me book-selection"></p>
+      </div>
+
+      <div class="has-label">
+        <label>Book Selections:</label>
+
+        <table width="100%">
+          <tr>
+            <th width="60%">Title</th>
+            <th width="20%">Copies</th>
+            <th width="20%">Price</th>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+          <tr>
+            <td width="60%">&nbsp;</td>
+            <td width="20%"></td>
+            <td width="20%"></td>
+          </tr>
+        </table>
+      </div>
+
+    </div><!--.page-->
+
+    <div class="catalog">
+      <h2>Catalog</h2>
+
+      <div id="app">
+        <ul v-for="book in books">
+          <li v-if="book['Enabled'] !== false" class="book">
+            <h3>{{ book['Title'] }}</h3>
+            <img class="cover" :src="book['Image URL']" alt="" />
+            Grade: {{ book['Grade Min'] }}-{{ book['Grade Max'] }}<br>
+            Price: {{ book['Lowest Price'] }}<br>
+            Identity or theme: {{ book["Racial or ethnic identity or theme"] }}<br>
+            Author: {{ book["Author"]}}<br>
+            <a :href="book['Link']" target="_new">More info on the web</a><br>
+            <blockquote class="review" v-html="book['Textual Review Without Newlines']"></blockquote>
+          </li>
+
+        </ul>
+      </div>
+      <script>
+        var app = new Vue({
+          el: '#app',
+          data: {
+            message: 'Hello Vue!',
+            books: BOOKS
+          }
+        })
+      </script>
+
+    </div><!--.page-->
+
 
   </div>
 
@@ -65,13 +201,6 @@
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
-
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script>
 </body>
 
 </html>
